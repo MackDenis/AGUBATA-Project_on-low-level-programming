@@ -1,0 +1,21 @@
+
+sitive_or_negative.c:23: note: ‘-Wmisleading-indentation’ is disabled from this point onwards, since column-tracking was disabled due to the size of the code/headers
+   23 | }
+      | 
+0-positive_or_negative.c:23:1: error: expected declaration or statement at end of input
+   23 | }
+      | ^
+0-positive_or_negative.c:23: error: control reaches end of non-void function [-Werror=return-type]
+   23 | }
+      | 
+sitive_or_negative.c:23: note: ‘-Wmisleading-indentation’ is disabled from this point onwards, since column-tracking was disabled due to the size of the code/headers
+   23 | }
+      | 
+0-positive_or_negative.c:23:1: error: expected declaration or statement at end of input
+   23 | }
+      | ^
+0-positive_or_negative.c:23: error: control reaches end of non-void function [-Werror=return-type]
+   23 | }
+      | 
+cc1: all warnings being treated as errors
+cc1: all warnings being treated as errorsi
